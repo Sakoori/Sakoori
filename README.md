@@ -13,3 +13,5 @@ Languages I Use: MATLAB, Python, LaTeX
 Computational Software/Packages I'm Familiar With: Gaussian 16, VASP, Quantum ESPRESSO, Atomic Simulation Environment
 
 English/日本語/français OK!
+
+I pretend I'm funnier than I actually am.
